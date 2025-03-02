@@ -1,0 +1,42 @@
+body {
+    font: italic;
+    background-color: #93C572;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+header img{
+    width: 1000px;
+    height: 500px;
+    border: solid #D6CC99 5px;
+;
+}
+
+header a{
+text-align: none;
+}
+
+main h1{
+    font-size: 50px;
+    color: white;
+    border: 1px solid #D6CC99 ;
+}
+main p {
+font-size: 20px;
+font-style: italic;
+
+}
+
+header a{
+    text-decoration: none;
+    background-color: #D6CC99;
+    color: beige;
+    border: #445D48;
+}
+
+
+
+   
